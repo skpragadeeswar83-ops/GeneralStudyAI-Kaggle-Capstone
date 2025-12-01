@@ -33,5 +33,4 @@ This repository contains the complete code and write-up submitted for the hackat
 2.  Open the `notebookfbdb01370d.ipynb` file in a Jupyter environment (like Kaggle, Colab, or local VS Code).
 3.  Run all cells sequentially.
 4.  The output will display the generated study plan, a specific task with resources, and the simulated doubt resolution.
-
-5.  View the Original Kaggle Submission Notebook Here:https://www.kaggle.com/code/skpragadeeswar/notebookfbdb01370d
+5.  View the Original Kaggle Submission Notebook Here:https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1763988893985
