@@ -5,7 +5,6 @@ Agentic Multi-Subject Study Planner submitted to the Kaggle Agents Intensive Hac
 ## 🏆 Kaggle Agents Intensive - Capstone Project
 This project implements a simple multi-agent system designed to act as a **personalized study planner** and **concierge agent**. It addresses the common challenge students face in manually organizing complex, multi-subject study schedules and finding quick answers to basic academic doubts.
 
-**Submission Link**: [View the Original Kaggle Submission Notebook Here](<-- PASTE YOUR PUBLIC KAGGLE URL HERE -->)
 
 ## ✨ Core Agent Architecture
 
